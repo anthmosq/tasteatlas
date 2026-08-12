@@ -1,0 +1,902 @@
+[
+    {
+        "position": 1,
+        "title": "Lechona",
+        "subtitle": "Pork Dish",
+        "rating": 4.78,
+        "country": "Colombia",
+        "iconic": "Lechonería Donde Jimmy (Bogotá), Lechoneria Donde Pacheco (Bogotá), Restaurante Boquerón (Ibagué)",
+        "ingredients": "Pork, split-peas, Onions, scallions, garlic, cumin, Lard, pork-fats, black-pepper, Salt"
+    },
+    {
+        "position": 2,
+        "title": "Pizza Napoletana",
+        "subtitle": "Pizza",
+        "rating": 4.75,
+        "country": "Italy",
+        "iconic": "L'Antica Pizzeria da Michele (Naples), Antica Pizzeria e Friggitoria Di Matteo (Naples), Gino e Toto Sorbillo (Naples)",
+        "ingredients": "00-flour, Tomatoes, mozzarella-di-bufala-campana, basil, Olive-oil, oregano, yeasts, Salt"
+    },
+    {
+        "position": 3,
+        "title": "Picanha",
+        "subtitle": "Brazilian Beef Cut",
+        "rating": 4.69,
+        "country": "Brazil",
+        "iconic": "Braseiro da Gávea (Rio de Janeiro), Churrascaria Majórica (Rio de Janeiro), Churrascaria Barranco (Porto Alegre)",
+        "ingredients": "cattle-breeds"
+    },
+    {
+        "position": 4,
+        "title": "Rechta",
+        "subtitle": "Noodle Dish",
+        "rating": 4.68,
+        "country": "Algeria",
+        "iconic": "La Palmeraie Restaurant (Algiers), Yulmaz (Algiers), Yacine (Oran)",
+        "ingredients": "semolina-flours, Chickpeas, Potatoes, Onions, garlic, ras-el-hanout, Chicken, Lamb, parsley, coriander, Salt, black-pepper"
+    },
+    {
+        "position": 5,
+        "title": "Phanaeng Curry",
+        "subtitle": "Stew",
+        "rating": 4.65,
+        "country": "Thailand",
+        "iconic": "May Veggie Home (Bangkok), Cabbages and Condoms Restaurant (Bangkok), Baan Rim Pa Patong (Phuket)",
+        "ingredients": "cattle-breeds, Chicken, Duck, Pork, coconut-milk, prik-gaeng-panang, makrut-lime-leaves, palm-sugars, fish-sauces, Salt"
+    },
+    {
+        "position": 6,
+        "title": "Asado",
+        "subtitle": "Barbecue",
+        "rating": 4.65,
+        "country": "Argentina",
+        "iconic": "Happening (Buenos Aires), Don Julio (Buenos Aires), El Desnivel (Buenos Aires)",
+        "ingredients": ""
+    },
+    {
+        "position": 7,
+        "title": "Çökertme kebabı",
+        "subtitle": "Veal Dish",
+        "rating": 4.64,
+        "country": "Turkiye",
+        "iconic": "Otantik Ocakbasi (Bodrum), Dukkan No10 (Bodrum), Musto Bistro (Bodrum)",
+        "ingredients": "Veal, Milk, yogurt, Olive-oil, cumin, paprika, garlic, tomato-sauce, Salt, Potatoes"
+    },
+    {
+        "position": 8,
+        "title": "Rawon",
+        "subtitle": "Meat Soup",
+        "rating": 4.62,
+        "country": "Indonesia",
+        "iconic": "Warung Bu Kris (South Jakarta), Rawon Setan (Surabaya), Rumah Makan Rawon Nguling (Malang)",
+        "ingredients": "cattle-breeds, makrut-lime-leaves, lemongrass, ginger, Hot-peppers, buah-kluwek, Rice, Bean-sprouts, sambal"
+    },
+    {
+        "position": 9,
+        "title": "Cağ kebabı",
+        "subtitle": "Lamb Dish",
+        "rating": 4.6,
+        "country": "Turkiye",
+        "iconic": "Şehzade Cağ Kebap (Fatih), Gel Gör Cağ Kebap (Erzurum), Yaşar Usta Cağ Kebap Salonu (Maltepe)",
+        "ingredients": "Lamb, Onions, Salt, black-pepper"
+    },
+    {
+        "position": 10,
+        "title": "Tibs",
+        "subtitle": "Stir-fry",
+        "rating": 4.6,
+        "country": "Ethiopia",
+        "iconic": "Yilma Restaurant (Addis Ababa), Chercher (Washington, D.C.), Meals By Genet (Los Angeles)",
+        "ingredients": ""
+    },
+    {
+        "position": 11,
+        "title": "Biang Biang noodles",
+        "subtitle": "Noodle Dish",
+        "rating": 4.59,
+        "country": "China",
+        "iconic": "First Noodle Under the Sun (Xi'an), Biangbiang Mian (Xi'an), Yau Yuen Siu Tsui (Hong Kong)",
+        "ingredients": "wheat-flours, scallions, garlic, red-chili-flakes, red-chilli-powder, sichuan-pepper, sheng-chou, rice-vinegar, vegetable-oils, Salt"
+    },
+    {
+        "position": 12,
+        "title": "Cochinita pibil",
+        "subtitle": "Pork Dish",
+        "rating": 4.58,
+        "country": "Mexico",
+        "iconic": "Los Tres Gallos (Cabo San Lucas), La Chaya Maya (Mérida), Taqueria Honorio (Tulum)",
+        "ingredients": ""
+    },
+    {
+        "position": 13,
+        "title": "Châteaubriand",
+        "subtitle": "Beef Dish",
+        "rating": 4.58,
+        "country": "France",
+        "iconic": "Josephine Chez Dumonet (Paris), Chez Julien (Paris), Moustache (Paris)",
+        "ingredients": "cattle-breeds, Olive-oil, black-pepper, Salt"
+    },
+    {
+        "position": 14,
+        "title": "Pernil",
+        "subtitle": "Pork Dish",
+        "rating": 4.57,
+        "country": "Puerto Rico",
+        "iconic": "El Jibarito (San Juan), Molini's (San Juan), Orozco's Restaurant (San Juan)",
+        "ingredients": "Pork, garlic, Salt, Peppers, oregano, Vinegar, Olive-oil"
+    },
+    {
+        "position": 15,
+        "title": "Unadon",
+        "subtitle": "Eel Dish",
+        "rating": 4.57,
+        "country": "Japan",
+        "iconic": "Nodaiwa (Minato), Unagi Hashimoto (Bunkyō), Unagi Irokawa (Taitō)",
+        "ingredients": "unagi, soy-sauce, Sugar, mirin, sake"
+    },
+    {
+        "position": 16,
+        "title": "Païdakia",
+        "subtitle": "Lamb Dish",
+        "rating": 4.56,
+        "country": "Greece",
+        "iconic": "Karavitis (Athens), To Steki Tou Ilia (Athens), Ladokolla (Temploni)",
+        "ingredients": "Lamb, garlic, thyme, oregano, rosemary, peppercorns, mustard-seeds, lemon-juices, Olive-oil, Salt"
+    },
+    {
+        "position": 17,
+        "title": "Khao soi",
+        "subtitle": "Noodle Dish",
+        "rating": 4.56,
+        "country": "Thailand",
+        "iconic": "Hinlay Curry House (Chiang Mai), Khao Soi Islam (Chiang Mai), Khao Soi Khun Yai (Chiang Mai)",
+        "ingredients": "Chicken, cattle-breeds, Pork, Noodles-shapes, coconut-milk, lemongrass, coriander, makrut-lime-leaves, Limes, shallots, nutmegs, white-pepper, cumin, garlic"
+    },
+    {
+        "position": 18,
+        "title": "Amêijoas à Bulhão Pato",
+        "subtitle": "Clam Dish",
+        "rating": 4.56,
+        "country": "Portugal",
+        "iconic": "O Gaveto (Porto), A Marisqueira de Matosinhos (Porto), Ostras & Coisas (Porto)",
+        "ingredients": "Clams, Olive-oil, garlic, lemon-juices, coriander"
+    },
+    {
+        "position": 19,
+        "title": "Mechouia Salad",
+        "subtitle": "Salad",
+        "rating": 4.56,
+        "country": "Tunisia",
+        "iconic": "Dar El Jeld (Tunis), L'Auberge de Tamezret (Tamezret), Le 404 (Paris)",
+        "ingredients": "Onions, Peppers, Tomatoes, garlic, Olive-oil, caraway, Salt, black-pepper, Eggs, Olives, tuna"
+    },
+    {
+        "position": 20,
+        "title": "Chakhchoukha",
+        "subtitle": "Stew",
+        "rating": 4.56,
+        "country": "Algeria",
+        "iconic": "Restaurant El Maida (Algiers), Restaurant Ighrassen (Constantine), Yacine (Oran)",
+        "ingredients": "Lamb, rougag, Tomatoes, Chickpeas, Onions, cumin, ras-el-hanout, caraway, galangal, lavenders, Hot-peppers, black-pepper, Salt"
+    },
+    {
+        "position": 21,
+        "title": "Cordero asado",
+        "subtitle": "Lamb Dish",
+        "rating": 4.55,
+        "country": "Spain",
+        "iconic": "Casa Brigante (Lerma), Asador Maribel Restaurante (Segovia), La Posada de la Villa (Madrid)",
+        "ingredients": "Lamb, Lard, garlic, Salt"
+    },
+    {
+        "position": 22,
+        "title": "Weihnachtsgans",
+        "subtitle": "Goose Dish",
+        "rating": 4.55,
+        "country": "Germany",
+        "iconic": "",
+        "ingredients": "Geese, Onions, Apples, Prunes, Chestnuts, Butter, marjoram, thyme, vegetable-stocks, chicken-stocks, black-pepper, Salt"
+    },
+    {
+        "position": 23,
+        "title": "Pempek",
+        "subtitle": "Street Food",
+        "rating": 4.54,
+        "country": "Indonesia",
+        "iconic": "Pempek 123 (Bandar Lampung), Pempek Saga Sudi Mampir (Palembang), Pempek Vico (Palembang)",
+        "ingredients": "mackerels, snakeheads, sago-flours, tapioca-flours, Salt"
+    },
+    {
+        "position": 24,
+        "title": "Tagliatelle al ragù alla Bolognese",
+        "subtitle": "Pasta",
+        "rating": 4.53,
+        "country": "Italy",
+        "iconic": "Diana (Bologna), Trattoria Anna Maria (Bologna), Osteria dell' Orsa (Bologna)",
+        "ingredients": "tagliatelle, ground-beef, ground-pork, pancetta, tomato-pastes, Red-wine, White-wine, Carrots, Celeries, Onions, Olive-oil, Milk, nutmegs, black-pepper, Salt"
+    },
+    {
+        "position": 25,
+        "title": "Tonkotsu ramen",
+        "subtitle": "Noodle Dish",
+        "rating": 4.53,
+        "country": "Japan",
+        "iconic": "Ichiran Shibuya (Shibuya), Akanoren Minato (Minato), Ippudo Daimyo (Fukuoka)",
+        "ingredients": "ramen-noodles, Pork, stocks, pork-fats, Eggs, scallions, bamboo-shots, nori, narutomaki, enokitake"
+    },
+    {
+        "position": 26,
+        "title": "İskender kebap",
+        "subtitle": "Lamb Dish",
+        "rating": 4.53,
+        "country": "Turkiye",
+        "iconic": "Kasap Osman (Fatih), Kebapçı İskender Yavuz İskenderoğlu Beşiktaş (Beşiktaş), Kebapçı İskender Teyyare (Bursa)",
+        "ingredients": "Lamb, cattle-breeds, Tomatoes, tomato-pastes, Onions, Olive-oil, oregano, red-chili-flakes, black-pepper, Salt"
+    },
+    {
+        "position": 27,
+        "title": "Pappardelle al cinghiale",
+        "subtitle": "Pasta",
+        "rating": 4.53,
+        "country": "Italy",
+        "iconic": "Buca Lapi (Florence), Osteria del Cinghiale Bianco (Florence), Da Nerbone (Florence)",
+        "ingredients": "pappardelle, ragu-di-cinghiale, parsley, parmigiano-reggiano"
+    },
+    {
+        "position": 28,
+        "title": "Kuzu şiş",
+        "subtitle": "Lamb Dish",
+        "rating": 4.53,
+        "country": "Turkiye",
+        "iconic": "Tatbak (Şişli), Hasanağa Restaurant (Antalya), Yemenli Meyhanesi (Antalya)",
+        "ingredients": "Lamb, Mushrooms, Peppers, shallots, Tomatoes, Onions, Eggplants, garlic, yogurt, Olive-oil, cumin, thyme, lemon-juices, black-pepper, Salt"
+    },
+    {
+        "position": 29,
+        "title": "Murgh makhani",
+        "subtitle": "Chicken Dish",
+        "rating": 4.52,
+        "country": "India",
+        "iconic": "Karim's (New Delhi), Moti Mahal (New Delhi), Gulati (New Delhi)",
+        "ingredients": "Chicken, Tomatoes, Butter, red-chilli-powder, garlic, ginger, fenugreek, Cream, cumin, Salt, Sugar"
+    },
+    {
+        "position": 30,
+        "title": "Escondidinho",
+        "subtitle": "Casserole",
+        "rating": 4.52,
+        "country": "Brazil",
+        "iconic": "Mocotó (São Paulo), Restaurante Barcaxeira (Porto de Galinhas), O Tal Do Escondidinho (Pipa Beach)",
+        "ingredients": "carne-seca, carne-de-sol, cassava, queijo-de-coalho, manteiga-de-garrafa, Onions, Hot-peppers, Milk, Cream, coriander, black-pepper, Salt"
+    },
+    {
+        "position": 31,
+        "title": "Hyderabadi biryani",
+        "subtitle": "Rice Dish",
+        "rating": 4.52,
+        "country": "India",
+        "iconic": "Jewel of Nizam (Hyderabad), Bawarchi (Hyderabad), Hotel Shadab (Hyderabad)",
+        "ingredients": "basmati, Goat, Lamb, Chicken, Lemons, yogurt, Onions, saffron"
+    },
+    {
+        "position": 32,
+        "title": "Samgyeopsal",
+        "subtitle": "Pork Dish",
+        "rating": 4.52,
+        "country": "South Korea",
+        "iconic": "Wangbijib Myeongdong Main Store (Seoul), Guhl Goo Nae Wang Gob Chang (Seoul), Kang Ho Dong Baekjeong Myeongdong (Seoul)",
+        "ingredients": ""
+    },
+    {
+        "position": 33,
+        "title": "Nasi goreng ayam",
+        "subtitle": "Stir-fry",
+        "rating": 4.52,
+        "country": "Indonesia",
+        "iconic": "",
+        "ingredients": "Chicken, Rice, soy-sauce, fish-sauces, galangal, ginger, garlic, shallots, scallions, kecap-manis, Hot-peppers, turmeric, white-pepper, oil, Salt"
+    },
+    {
+        "position": 34,
+        "title": "Taiwanese Hot Pot",
+        "subtitle": "Soup",
+        "rating": 4.52,
+        "country": "Taiwan",
+        "iconic": "Master Of Mushroom Restaurant (Taichung), Dongshi Niu Jia Zhuang (Taichung), Jin Shang Hsuan (Taipei City)",
+        "ingredients": ""
+    },
+    {
+        "position": 35,
+        "title": "Lasagne alla Bolognese",
+        "subtitle": "Pasta",
+        "rating": 4.51,
+        "country": "Italy",
+        "iconic": "Trattoria Anna Maria (Bologna), Osteria dell' Orsa (Bologna), Eataly (Genoa)",
+        "ingredients": "lasagna, ragu-alla-bolognese, bechamel-sauce, parmigiano-reggiano, Butter"
+    },
+    {
+        "position": 36,
+        "title": "Karē",
+        "subtitle": "Stew",
+        "rating": 4.51,
+        "country": "Japan",
+        "iconic": "Nishitondendori Soup Curry Honpo (Sapporo), Soup Curry Samurai Sakura (Sapporo), Garaku Soup Curry (Sapporo)",
+        "ingredients": ""
+    },
+    {
+        "position": 37,
+        "title": "Pollo a la brasa",
+        "subtitle": "Chicken Dish",
+        "rating": 4.51,
+        "country": "Peru",
+        "iconic": "Pardos Chicken (Lima District), Los Toldos Chicken (Cusco), Granja Azul (Ate)",
+        "ingredients": "Chicken, garlic, aji-panca, rosemary, Vinegar, beer, lao-chou, oregano, cumin, black-pepper, Salt, vegetable-oils"
+    },
+    {
+        "position": 38,
+        "title": "Parmigiana alla napoletana",
+        "subtitle": "Casserole",
+        "rating": 4.51,
+        "country": "Italy",
+        "iconic": "Mimì alla Ferrovia (Naples), Umberto (Naples), Lo Stuzzichino (Sant'Agata sui Due Golfi)",
+        "ingredients": "Eggplants, Tomatoes, Onions, basil, mozzarella-di-bufala-campana, parmigiano-reggiano, Olive-oil, garlic"
+    },
+    {
+        "position": 39,
+        "title": "Carne de porco à Alentejana",
+        "subtitle": "Pork Dish",
+        "rating": 4.51,
+        "country": "Portugal",
+        "iconic": "Taberna do Gabão (Odeceixe), Tasca do Celso (Vila Nova de Milfontes), Restaurante Fialho (Évora)",
+        "ingredients": "Pork, Clams, Potatoes, White-wine, Peppers, garlic, bay-leaves, black-pepper, Salt, coriander, Lard"
+    },
+    {
+        "position": 40,
+        "title": "Pasta alla gricia",
+        "subtitle": "Pasta",
+        "rating": 4.51,
+        "country": "Italy",
+        "iconic": "Armando al Pantheon (Rome), Roscioli (Rome), Trattoria Da Lucia (Rome)",
+        "ingredients": "bucatini, spaghetti, rigatoni, guanciale, pecorino-romano, black-pepper"
+    },
+    {
+        "position": 41,
+        "title": "Sinigang",
+        "subtitle": "Soup",
+        "rating": 4.51,
+        "country": "Philippines",
+        "iconic": "Abe Serendra (Taguig), Fely J's Restaurant (Makati), Locavore (Pasig)",
+        "ingredients": "tamarind, guava, Pork, Seafoods, Chicken, cattle-breeds, fish-sauces, water-spinach, siling-mahaba, Onions, Tomatoes, Broccoli, Green-beans, ginger, garlic, Okras, Eggplants, radishes, Cabbages, Salt"
+    },
+    {
+        "position": 42,
+        "title": "Central Texas-Style Barbecue",
+        "subtitle": "Barbecue",
+        "rating": 4.51,
+        "country": "United States of America",
+        "iconic": "Micklethwait Craft Meats (Austin), La Barbecue (Austin), Franklin Barbecue (Austin)",
+        "ingredients": ""
+    },
+    {
+        "position": 43,
+        "title": "Murgh karahi",
+        "subtitle": "Chicken Dish",
+        "rating": 4.51,
+        "country": "Pakistan",
+        "iconic": "Kolachi Restaurant (Karachi), Karachi Karrahi (Gujrat), Beera Chicken House (Amritsar)",
+        "ingredients": "Chicken, red-chilli-powder, cumin, garam-masala, allspice, cardamom, Tomatoes, garlic, Rice, roti, naan"
+    },
+    {
+        "position": 44,
+        "title": "Gulai",
+        "subtitle": "Stew",
+        "rating": 4.51,
+        "country": "Indonesia",
+        "iconic": "Melting Wok Warung (Ubud), Bambu Bali Restaurant (Nusa Dua), Rumah Makan Medan Baru (Central Jakarta)",
+        "ingredients": "Chicken, organ-meats, Seafoods, coconut-milk, galangal, turmeric, Hot-peppers, Onions, curry-powders"
+    },
+    {
+        "position": 45,
+        "title": "Carbonara",
+        "subtitle": "Pasta",
+        "rating": 4.5,
+        "country": "Italy",
+        "iconic": "Armando al Pantheon (Rome), Roscioli (Rome), Trattoria Dal Cavalier Gino (Rome)",
+        "ingredients": "spaghetti, guanciale, pecorino-romano, Eggs, black-pepper"
+    },
+    {
+        "position": 46,
+        "title": "Khachapuri",
+        "subtitle": "Savory Pie",
+        "rating": 4.5,
+        "country": "Georgia",
+        "iconic": "Laguna (Batumi), Retro (Batumi), Machakhela (Tbilisi)",
+        "ingredients": "wheat-flours, Eggs, Butter, yeasts, sulguni, imeruli, vegetable-oils, Milk, Salt"
+    },
+    {
+        "position": 47,
+        "title": "Adana kebap",
+        "subtitle": "Lamb Dish",
+        "rating": 4.5,
+        "country": "Turkiye",
+        "iconic": "Adana Ocakbaşı (Şişli), Zübeyir Ocakbaşı (Beyoğlu), Kebapçi Enver Usta (Beyoğlu)",
+        "ingredients": "ground-lamb, garlic, Onions, paprika, red-chili-flakes"
+    },
+    {
+        "position": 48,
+        "title": "Miso ramen",
+        "subtitle": "Noodle Dish",
+        "rating": 4.5,
+        "country": "Japan",
+        "iconic": "Shirakaba Sanso Ramen (Sapporo), Aji No Karyu Ramen (Sapporo), Kikanbo (Chiyoda)",
+        "ingredients": "ramen-noodles, Pork, miso, Bean-sprouts, garlic, Corn, sesame-oils, Eggs, leeks, nori"
+    },
+    {
+        "position": 49,
+        "title": "Maguro nigiri sushi",
+        "subtitle": "Rice Dish",
+        "rating": 4.5,
+        "country": "Japan",
+        "iconic": "Sushi Dai (Chūō), Sushi-Zanmai (Shinjuku), Ginza Kyubey (Chūō)",
+        "ingredients": "uruchimai, tuna, wasabi"
+    },
+    {
+        "position": 50,
+        "title": "Linguine allo scoglio",
+        "subtitle": "Pasta",
+        "rating": 4.5,
+        "country": "Italy",
+        "iconic": "Bagni Delfino (Sorrento), Trattoria dal Billy (Manarola), Trattoria Il Porticciolo (Riomaggiore)",
+        "ingredients": "linguine, spaghetti, bucatini, mussels, Clams, squids, shrimps, prawns, White-wine, garlic, Tomatoes, Olive-oil, parsley, black-pepper, Salt"
+    },
+    {
+        "position": 51,
+        "title": "Hünkar beğendi",
+        "subtitle": "Stew",
+        "rating": 4.5,
+        "country": "Turkiye",
+        "iconic": "Hacı Abdullah Lokantası (Beyoğlu), Etiler Hünkar (Beşiktaş), Karaköy Lokantası (Beyoğlu)",
+        "ingredients": "Lamb, Eggplants, Onions, Tomatoes, Olive-oil, Butter, Cheese, wheat-flours, Lemons, garlic, tomato-pastes, Milk, thyme, parsley, oregano, Olive-oil, Salt, black-pepper"
+    },
+    {
+        "position": 52,
+        "title": "Chelow kebab",
+        "subtitle": "Meat Dish",
+        "rating": 4.5,
+        "country": "Iran",
+        "iconic": "Moslem Restaurant (Tehran), Alborz Restaurant (Tehran)",
+        "ingredients": "cattle-breeds, basmati, saffron, sumac, Tomatoes, bell-peppers, turmeric, black-pepper, cloves, Salt, Butter"
+    },
+    {
+        "position": 53,
+        "title": "Sopa de lima",
+        "subtitle": "Soup",
+        "rating": 4.5,
+        "country": "Mexico",
+        "iconic": "La Chaya Maya (Mérida), Restaurante Los Almendros (Mérida), Pórtico del Peregrino (Mérida)",
+        "ingredients": "Chicken, habanero-peppers, Limes, Onions, garlic, oregano, thyme, Tomatoes, coriander, vegetable-oils, black-pepper, Salt"
+    },
+    {
+        "position": 54,
+        "title": "Pai huang gua",
+        "subtitle": "Snack",
+        "rating": 4.5,
+        "country": "China",
+        "iconic": "",
+        "ingredients": "Cucumbers, garlic, Sugar, zhenjiang-xiang-cu, sheng-chou, sesame-oils, black-pepper, Salt"
+    },
+    {
+        "position": 55,
+        "title": "Beijing kao ya",
+        "subtitle": "Duck Dish",
+        "rating": 4.49,
+        "country": "China",
+        "iconic": "Beijing Da Dong (Dongcheng District), Quanjude Roast Duck (Dongcheng District), Duck de Chine (Chaoyang District)",
+        "ingredients": "american-pekin, hoisin-sauce, ginger, Honey, wu-xiang-fen, rice-vinegar"
+    },
+    {
+        "position": 56,
+        "title": "Bistecca alla Fiorentina",
+        "subtitle": "Beef Cut",
+        "rating": 4.49,
+        "country": "Italy",
+        "iconic": "Trattoria Sostanza (Florence), Perseus (Florence), Buca Lapi (Florence)",
+        "ingredients": "chianina"
+    },
+    {
+        "position": 57,
+        "title": "Kleftiko",
+        "subtitle": "Lamb Dish",
+        "rating": 4.49,
+        "country": "Greece",
+        "iconic": "Strofi Restaurant (Athens), Peskesi (Heraklion), George and Elena's Taverna (Mesongi)",
+        "ingredients": "Lamb, Potatoes, garlic, oregano, rosemary, thyme, Olive-oil, lemon-juices, black-pepper, Salt"
+    },
+    {
+        "position": 58,
+        "title": "Ciorba Radauteana",
+        "subtitle": "Chicken Soup",
+        "rating": 4.49,
+        "country": "Romania",
+        "iconic": "La Baciu (Câmpulung Moldovenesc), Restaurant Naţional (Rădăuți), Taverna di Dracula (Tivoli)",
+        "ingredients": "Chicken, Onions, Celeries, Peppers, Carrots, parsnips, garlic, sour-cream, Eggs, Vinegar, Flour, parsley"
+    },
+    {
+        "position": 59,
+        "title": "Islama köfte",
+        "subtitle": "Meatballs",
+        "rating": 4.49,
+        "country": "Turkiye",
+        "iconic": "Tunatan Tesisleri Serdivan (Adapazarı), Meşhur Köfteci Mustafa (Adapazarı), Ako Ahmet Usta Islama Köftecisi (Kadıköy)",
+        "ingredients": "ground-beef, Breads, beef-stocks, paprika, Hot-peppers, Tomatoes, Eggs, Onions, garlic, cumin, sunflower-oils, Salt, black-pepper"
+    },
+    {
+        "position": 60,
+        "title": "Massaman Curry",
+        "subtitle": "Stew",
+        "rating": 4.48,
+        "country": "Thailand",
+        "iconic": "Nahm Restaurant (Bangkok), Flare (Pattaya), Issaya Siamese Club (Bangkok)",
+        "ingredients": "cattle-breeds, Chicken, prik-gaeng-massaman, coconut-milk, tamarind, Potatoes"
+    },
+    {
+        "position": 61,
+        "title": "Galbi",
+        "subtitle": "Beef Dish",
+        "rating": 4.48,
+        "country": "South Korea",
+        "iconic": "Yeonpo Galbi (Suwon), Bonsuwon Galbi (Suwon), Kabojung Kalbi (Suwon)",
+        "ingredients": "cattle-breeds, Pears, rice-wine, soy-sauce, Sugar, Honey, scallions, garlic, sesame-oils, black-pepper"
+    },
+    {
+        "position": 62,
+        "title": "Gambas al ajillo",
+        "subtitle": "Shrimp/Prawn Dish",
+        "rating": 4.47,
+        "country": "Spain",
+        "iconic": "Taller de Tapas (Barcelona), La Casa del Abuelo (Madrid), Vinitus (Barcelona)",
+        "ingredients": "shrimps, garlic, lemon-juices, Hot-peppers, Olive-oil, parsley"
+    },
+    {
+        "position": 63,
+        "title": "Steak au poivre",
+        "subtitle": "Beef Dish",
+        "rating": 4.47,
+        "country": "France",
+        "iconic": "A la Biche au Bois (Paris), Chez Paul (Paris), Bistrot Paul Bert (Paris)",
+        "ingredients": "cattle-breeds, Butter, black-pepper, Cream, cognac, vegetable-oils"
+    },
+    {
+        "position": 64,
+        "title": "Lomo saltado",
+        "subtitle": "Stir-fry",
+        "rating": 4.47,
+        "country": "Peru",
+        "iconic": "Astrid y Gaston (San Isidro), Panchita (Miraflores), Morena Peruvian Kitchen (Cusco)",
+        "ingredients": "cattle-breeds, Onions, Tomatoes, aji-amarillo, garlic, coriander, oregano, cumin, beef-stocks, soy-sauce, Vinegar, Olive-oil, black-pepper, Salt"
+    },
+    {
+        "position": 65,
+        "title": "Tom kha gai",
+        "subtitle": "Chicken Soup",
+        "rating": 4.47,
+        "country": "Thailand",
+        "iconic": "Whole Earth (Chiang Mai), Thanying (Bangkok), We's Restaurant (Chiang Mai)",
+        "ingredients": "Chicken, coconut-milk, galangal, lemongrass, prik-kee-noo, makrut-lime-leaves, fish-sauces, cao-gu"
+    },
+    {
+        "position": 66,
+        "title": "Fritto misto",
+        "subtitle": "Seafood",
+        "rating": 4.47,
+        "country": "Italy",
+        "iconic": "Trattoria Da Emilia (Sorrento), Taverna San Trovaso (Venice), Passione Di Sofi (Naples)",
+        "ingredients": "squids, shrimps, Flour, corn-starch, baking-powder, Salt, soda-waters, fennel, leeks, shiitake, Lemons, parsley, sage"
+    },
+    {
+        "position": 67,
+        "title": "Rendang",
+        "subtitle": "Meat Dish",
+        "rating": 4.47,
+        "country": "Indonesia",
+        "iconic": "Chandi (Seminyak), Mama San (Denpasar), Biku Bali (Seminyak)",
+        "ingredients": "cattle-breeds, Onions, garlic, lemongrass, galangal, ginger, makrut-lime-leaves, vegetable-oils, cinnamon, cloves, star-anises, cardamom, coconut-milk, Salt"
+    },
+    {
+        "position": 68,
+        "title": "Dan Dan noodles",
+        "subtitle": "Noodle Dish",
+        "rating": 4.47,
+        "country": "China",
+        "iconic": "Chen Mapo Tofu (Chengdu), Din Tai Fung Hong Kong (Hong Kong), Wing Lai Yuen (Hong Kong)",
+        "ingredients": "Noodles-shapes, ground-pork, sichuan-pepper, garlic, cinnamon, star-anises, sui-mi-ya-cai, wu-xiang-fen, red-chili-flakes, Peanuts, soy-sauce, sweet-bean-sauce1, hoisin-sauce, sesame-oils, shaoxing-wine, Sugar, Salt"
+    },
+    {
+        "position": 69,
+        "title": "Boiled Maine Lobster",
+        "subtitle": "Lobster Dish",
+        "rating": 4.47,
+        "country": "United States of America",
+        "iconic": "Five Islands Lobster Co (Georgetown), Arnold’s Lobster & Clam Bar (Eastham), The Clam Shack (Kennebunk)",
+        "ingredients": "maine-lobster, Salt"
+    },
+    {
+        "position": 70,
+        "title": "Agnolotti",
+        "subtitle": "Pasta",
+        "rating": 4.47,
+        "country": "Italy",
+        "iconic": "Osteria Antiche Sere (Turin), Ristorante Bandini (Portacormaro), Osteria da Nando (Aosta)",
+        "ingredients": "Flour, Eggs, Butter, Salt, black-pepper, spinach, chard, Artichokes, fontina, ricotta"
+    },
+    {
+        "position": 71,
+        "title": "You bao xia",
+        "subtitle": "Stir-fry",
+        "rating": 4.47,
+        "country": "China",
+        "iconic": "Din Tai Fung Hong Kong (Hong Kong), Fu 1039 (Shanghai), The Chairman (Hong Kong)",
+        "ingredients": "shrimps, scallions, ginger, garlic, chicken-stocks, shaoxing-wine, black-vinegars, sesame-oils, vegetable-oils, Sugar, Salt"
+    },
+    {
+        "position": 72,
+        "title": "Inasal na manok",
+        "subtitle": "Chicken Dish",
+        "rating": 4.47,
+        "country": "Philippines",
+        "iconic": "Balay Dako (Tagaytay), Nena's Beth at Manokan Country (Bacolod), Island Chicken Inasal (Bulabog)",
+        "ingredients": "Chicken, Vinegar, lemongrass, garlic, ginger"
+    },
+    {
+        "position": 73,
+        "title": "Kai yang",
+        "subtitle": "Chicken Dish",
+        "rating": 4.47,
+        "country": "Thailand",
+        "iconic": "Sabai Jai Kai Yang (Bangkok), Likhit Kai Yang (Bangkok), Kai Yang Rabeab Khao Suan Kwang (Kham Muang)",
+        "ingredients": "Chicken, soy-sauce, ginger, white-pepper, fish-sauces, Vinegar, hoisin-sauce, coriander, lemongrass, garlic"
+    },
+    {
+        "position": 74,
+        "title": "Cacio e pepe",
+        "subtitle": "Pasta",
+        "rating": 4.46,
+        "country": "Italy",
+        "iconic": "Armando al Pantheon (Rome), Roscioli (Rome), Trattoria Dal Cavalier Gino (Rome)",
+        "ingredients": "spaghetti, pecorino-romano, black-pepper"
+    },
+    {
+        "position": 75,
+        "title": "Pozole",
+        "subtitle": "Stew",
+        "rating": 4.46,
+        "country": "Mexico",
+        "iconic": "La Casa de Toño (Mexico City), Pozolería Tía Calla (Taxco), Tamales y Atoles Any (Zihuatanejo)",
+        "ingredients": "Pork, Chicken, Seafoods, hominy, Lettuce, oregano, tortilla, Lemons, coriander, scallions, Onions, garlic"
+    },
+    {
+        "position": 76,
+        "title": "Milanesa napolitana",
+        "subtitle": "Beef Dish",
+        "rating": 4.46,
+        "country": "Argentina",
+        "iconic": "El Club de la Milanesa (Buenos Aires), La Fonda Del Tío (Bariloche), El Obrero (Buenos Aires)",
+        "ingredients": "cattle-breeds, Eggs, breadcrumbs, cured-ham, mozzarella, tomato-sauce, Olive-oil, oregano, garlic, black-pepper, Salt"
+    },
+    {
+        "position": 77,
+        "title": "Húsleves",
+        "subtitle": "Meat Soup",
+        "rating": 4.46,
+        "country": "Hungary",
+        "iconic": "",
+        "ingredients": "cattle-breeds, Chicken, Noodles-shapes, Carrots, parsley, Celeries"
+    },
+    {
+        "position": 78,
+        "title": "Moqueca Baiana",
+        "subtitle": "Stew",
+        "rating": 4.46,
+        "country": "Brazil",
+        "iconic": "Sabor da Vila (Praia do Forte), Maria Mata Mouro (Salvador), Yemanjá (Salvador)",
+        "ingredients": "shrimps, White-fish, coconut-milk, bell-peppers, lime-juices, Tomatoes, Onions, garlic, fish-stocks, azeite-de-dende, coriander, black-pepper, Salt"
+    },
+    {
+        "position": 79,
+        "title": "Étouffée",
+        "subtitle": "Crustacean Dish",
+        "rating": 4.46,
+        "country": "United States of America",
+        "iconic": "Royal House Oyster Bar (New Orleans), Mother’s Restaurant (New Orleans), Deanie's Seafood Restaurant (New Orleans)",
+        "ingredients": "shrimps, crayfish, Onions, garlic, oil, Flour, Celeries, bell-peppers, fish-stocks, celery-seeds, Salt, hot-sauces"
+    },
+    {
+        "position": 80,
+        "title": "Brik",
+        "subtitle": "Savory Pastry",
+        "rating": 4.46,
+        "country": "Tunisia",
+        "iconic": "Restaurant Chez Mohssen (La Goulette), Dar El Jeld (Tunis)",
+        "ingredients": "tuna, Flour, Vinegar, Olive-oil, Lemons, harissa-tunisia, Eggs, scallions, capers, parsley, black-pepper, Salt"
+    },
+    {
+        "position": 81,
+        "title": "Zwiebelrostbraten",
+        "subtitle": "Beef Dish",
+        "rating": 4.46,
+        "country": "Germany",
+        "iconic": "Gasthaus zur Linde (Stuttgart), Aschbacher Hof (Feldkirchen-Westerham), Aldinger's Restaurant (Fellbach)",
+        "ingredients": "cattle-breeds, Onions, wheat-flours, Butter, paprika, moutarde-de-dijon, heavy-creams, beef-stocks, vegetable-oils, Salt, black-pepper"
+    },
+    {
+        "position": 82,
+        "title": "Hong shao",
+        "subtitle": "Technique",
+        "rating": 4.46,
+        "country": "China",
+        "iconic": "Black Sesame Kitchen (Dongcheng District), Fu 1088 (Shanghai), Jishi (Shanghai)",
+        "ingredients": ""
+    },
+    {
+        "position": 83,
+        "title": "Lablabi",
+        "subtitle": "Vegetable Soup",
+        "rating": 4.46,
+        "country": "Tunisia",
+        "iconic": "",
+        "ingredients": ""
+    },
+    {
+        "position": 84,
+        "title": "Phat kaphrao",
+        "subtitle": "Stir-fry",
+        "rating": 4.45,
+        "country": "Thailand",
+        "iconic": "Raan Jay Fai (Bangkok), Ung Jia Huad (Bangkok), Neung 33 (Bangkok)",
+        "ingredients": ""
+    },
+    {
+        "position": 85,
+        "title": "Frango assado com piri piri",
+        "subtitle": "Chicken Dish",
+        "rating": 4.45,
+        "country": "Portugal",
+        "iconic": "Restaurante Bonjardim (Lisbon), Marufo 1 (Quarteira), Restaurante Senhor Frango (Almancil)",
+        "ingredients": "Chicken, thyme, Olive-oil, Hot-peppers, garlic, Lemons, rice-vinegar, whisky, paprika, Butter"
+    },
+    {
+        "position": 86,
+        "title": "Bolo do caco",
+        "subtitle": "Bread",
+        "rating": 4.45,
+        "country": "Portugal",
+        "iconic": "Santo António (Estreito de Câmara de Lobos), Restaurante Casal da Penha (Funchal)",
+        "ingredients": "wheat-flours, Sweet-potatoes, Salt"
+    },
+    {
+        "position": 87,
+        "title": "Sichuan hot pot",
+        "subtitle": "Stew",
+        "rating": 4.45,
+        "country": "China",
+        "iconic": "San Xi Lou (Hong Kong), Chengdu Huangcheng Laoma (Chengdu), Yulin Tasty Shashlik (Chengdu)",
+        "ingredients": "Chicken, cattle-breeds, Lamb, beef-offal, Seafoods, tofu, Mushrooms, sichuan-pepper, cellophane-noodles, bok-choy, garlic, Hot-peppers, ginger, cinnamon, bay-leaves, star-anises, shaoxing-wine, black-pepper, Salt"
+    },
+    {
+        "position": 88,
+        "title": "Tsukemen",
+        "subtitle": "Noodle Dish",
+        "rating": 4.45,
+        "country": "Japan",
+        "iconic": "Fuunji (Shibuya), Rokurinsha (Chiyoda), Menya Musashi (Shinjuku)",
+        "ingredients": "ramen-noodles, shrimps, narutomaki, pork-fats, ginger, garlic, shiitake, soy-sauce, rice-vinegar, scallions, sesame-oils, Eggs, nori"
+    },
+    {
+        "position": 89,
+        "title": "Gunkanmaki",
+        "subtitle": "Rice Dish",
+        "rating": 4.45,
+        "country": "Japan",
+        "iconic": "",
+        "ingredients": "uruchimai, rice-vinegar, nori, ikura, kazunoko, uni, salmon, Corn, persian-cucumbers"
+    },
+    {
+        "position": 90,
+        "title": "Machas a la parmesana",
+        "subtitle": "Clam Dish",
+        "rating": 4.45,
+        "country": "Chile",
+        "iconic": "El Chiringuito (Zapallar), Alto Mar by La Gatita (Concón), La Picá de Martín (Concón)",
+        "ingredients": "razor-clams, parmigiano-reggiano, Butter, garlic, White-wine, Salt"
+    },
+    {
+        "position": 91,
+        "title": "Liangpi",
+        "subtitle": "Noodle Dish",
+        "rating": 4.45,
+        "country": "China",
+        "iconic": "Wei Jia Liangpi (Xi'an), Chun Fa Sheng (Xi'an), Great China (Berkeley)",
+        "ingredients": "wheat-flours, rice-flours, garlic, Bean-sprouts, Cucumbers, coriander, chili-oils, zhenjiang-xiang-cu, sheng-chou, sesame-oils, Sesame-seeds, Sugar, sichuan-pepper, Salt"
+    },
+    {
+        "position": 92,
+        "title": "Amatriciana",
+        "subtitle": "Pasta",
+        "rating": 4.44,
+        "country": "Italy",
+        "iconic": "Armando al Pantheon (Rome), Roscioli (Rome), Flavio al Velavevodetto (Rome)",
+        "ingredients": "spaghetti, bucatini, pecorino-romano, guanciale, pomodoro-s-marzano-dellagro-sarnese-nocerino, White-wine, Hot-peppers, Salt, black-pepper"
+    },
+    {
+        "position": 93,
+        "title": "Phở bò",
+        "subtitle": "Noodle Soup",
+        "rating": 4.44,
+        "country": "Vietnam",
+        "iconic": "Pho Thin (Hanoi), Phở Gia Truyền Bát Đàn (Hanoi), Thien Duong (Bangkok)",
+        "ingredients": "cattle-breeds, stocks, Noodles-shapes, cinnamon, cloves, coriander, Onions, scallions"
+    },
+    {
+        "position": 94,
+        "title": "Unagi nigiri sushi",
+        "subtitle": "Rice Dish",
+        "rating": 4.44,
+        "country": "Japan",
+        "iconic": "Yakitori Kato (Minato), Kotaro (Shibuya), Higashikōenji Komatsu (Suginami)",
+        "ingredients": "uruchimai, eels"
+    },
+    {
+        "position": 95,
+        "title": "Lohikeitto",
+        "subtitle": "Fish Soup",
+        "rating": 4.44,
+        "country": "Finland",
+        "iconic": "Restaurant Sea Horse (Helsinki), Fisken på Disken (Helsinki)",
+        "ingredients": "salmon, Potatoes, Carrots, leeks, Butter, dill, heavy-creams, fish-stocks, black-pepper, Salt"
+    },
+    {
+        "position": 96,
+        "title": "Texas-style barbecue",
+        "subtitle": "Barbecue",
+        "rating": 4.44,
+        "country": "United States of America",
+        "iconic": "Micklethwait Craft Meats (Austin), La Barbecue (Austin), Franklin Barbecue (Austin)",
+        "ingredients": ""
+    },
+    {
+        "position": 97,
+        "title": "Chicken 65",
+        "subtitle": "Fried Chicken Dish",
+        "rating": 4.44,
+        "country": "India",
+        "iconic": "Buhari (Chennai), Biryani Blues (Gurugram), Bheema's (Bangalore)",
+        "ingredients": "Chicken, Eggs, corn-flours, ginger, Lemons, red-chilli-powder, black-pepper, turmeric, cumin, curry-leaves, Vinegar, Sugar, Salt"
+    },
+    {
+        "position": 98,
+        "title": "Kansas City-Style Barbecue",
+        "subtitle": "Barbecue",
+        "rating": 4.44,
+        "country": "United States of America",
+        "iconic": "LC's Barbeque (Kansas City), BB's Lawnside Barbecue (Kansas City), Woodyard Bar-B-Q (Kansas City)",
+        "ingredients": ""
+    },
+    {
+        "position": 99,
+        "title": "Valašský frgál",
+        "subtitle": "Cake",
+        "rating": 4.44,
+        "country": "Czech Republic",
+        "iconic": "Hukvaldská Pekárna (Hukvaldy)",
+        "ingredients": "wheat-flours, dried-pears, blueberries, jams, cheese-curd, Walnuts, poppy-seeds, Eggs, Butter, yeasts, lemon-zest, Milk, Sugar, Salt"
+    },
+    {
+        "position": 100,
+        "title": "Keema",
+        "subtitle": "Stew",
+        "rating": 4.44,
+        "country": "India",
+        "iconic": "Leopold Cafe (Mumbai), Pal Dhaba (Chandigarh), Cafe Lota (New Delhi)",
+        "ingredients": "Lamb, Goat, Green-peas, Potatoes, ginger, Hot-peppers, Onions, ghee, garlic, garam-masala, naan"
+    }
+]
